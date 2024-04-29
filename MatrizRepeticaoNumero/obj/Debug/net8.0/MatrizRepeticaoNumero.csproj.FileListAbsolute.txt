@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\bin\Debug\net8.0\MatrizRepeticaoNumero.exe
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\bin\Debug\net8.0\MatrizRepeticaoNumero.deps.json
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\bin\Debug\net8.0\MatrizRepeticaoNumero.runtimeconfig.json
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\bin\Debug\net8.0\MatrizRepeticaoNumero.dll
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\bin\Debug\net8.0\MatrizRepeticaoNumero.pdb
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.AssemblyInfo.cs
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.dll
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\refint\MatrizRepeticaoNumero.dll
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.pdb
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\MatrizRepeticaoNumero.genruntimeconfig.cache
+C:\Users\julia\source\repos\MatrizRepeticaoNumero\MatrizRepeticaoNumero\obj\Debug\net8.0\ref\MatrizRepeticaoNumero.dll
